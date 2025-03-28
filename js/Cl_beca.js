@@ -14,6 +14,6 @@ export default class Cl_beca extends Cl_estudiante {
                 return 20;
 
             else
-                return "";
+                return 0;
     }
 }
